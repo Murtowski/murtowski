@@ -5,7 +5,7 @@ I'm :couple: Husband, :green_heart: Developer, :dragon_face: Leader, :moneybag: 
 - 🔭 Currently work at **Netguru** <img src="https://avatars.githubusercontent.com/u/1146?s=200&v=4"  width="24" height="24" align="center"/>
 - 📫 Reach me via [email](mailto:piskorski.pio@gmail.com?subject=[GitHub]%20Hello%20I%20want%20to%20contact%20You)
 - :running: Work life balance - Sound Body Sound Mind
-- :raised_hands: Teamwork - Work as individual, deliver with team
+- :raised_hands: Teamwork - deliver values with team
 
 ### Developing 
 <p align="left"> 
